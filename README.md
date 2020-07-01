@@ -15,7 +15,7 @@ submission PR<br>
 <br><br>
 
 Deployment Links <br>
-[Netlify](https://csb-lsbrs.netlify.app/)
+[Netlify](https://csb-i2h9x.netlify.app/)
 
 <br><br>
 
